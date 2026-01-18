@@ -30,7 +30,7 @@ int scan_print(){
 void print_abc(int n){
     int dv_three = n % 3;
     switch(dv_three){
-         case 0:
+        case 0:
             printf("A \n");
             break;
         case 1:
